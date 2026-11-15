@@ -1,0 +1,155 @@
+[
+  {
+    "company": "ACCENTURE FEDERAL SERVICES LLC",
+    "uei": "C47BNA8GM833",
+    "awardId": "2099CA27F00009",
+    "awardAmount": 8204511.16,
+    "awardType": "BPA CALL",
+    "description": "ONEFM BPA ORDER 1 INITIAL OPERATING CAPABILITIES (IOC) IMPLEMENTATION AND MIGRATION SERVICES",
+    "agency": "Department of the Treasury",
+    "subAgency": "Departmental Offices",
+    "startDate": "2026-11-05",
+    "endDate": "2028-11-04",
+    "naics": "541512",
+    "naicsDescription": "Computer Systems Design Services",
+    "psc": "DA10",
+    "pscDescription": "It And Telecom - Business Application/Application Development Software As A Service",
+    "placeOfPerformanceState": "VA",
+    "dateSigned": "2026-11-05",
+    "potentialValue": 8204511.16,
+    "recipientAddress": {
+      "street": "800 N GLEBE RD STE 300",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22203",
+      "country": "USA"
+    },
+    "parentCompany": "ACCENTURE PLC",
+    "businessCategories": [
+      "Category Business",
+      "Corporate Entity Not Tax Exempt",
+      "Foreign Owned",
+      "Foreign-Owned and U.S.-Incorporated Business",
+      "Not Designated a Small Business",
+      "Special Designations"
+    ],
+    "isSmallBusiness": false,
+    "executives": [
+      {
+        "name": "Ronald - Fy25 Total Comp Updated In Jan. 2026 G Ash",
+        "compensation": 2444789
+      },
+      {
+        "name": "John - Fy25 Total Comp Updated In Jan. 2026 B Goodman",
+        "compensation": 1875620
+      },
+      {
+        "name": "Paul - Fy25 Total Comp Updated In Jan. 2026 J Peck",
+        "compensation": 1692614
+      },
+      {
+        "name": "Ira - Fy25 Total Comp Updated In Jan. 2026  Entis",
+        "compensation": 1612035
+      },
+      {
+        "name": "Vanessa - Fy25 Total Comp Updated In Jan. 2026 H Godshalk",
+        "compensation": 1500958
+      }
+    ],
+    "competition": "FULL AND OPEN COMPETITION",
+    "setAside": null,
+    "offersReceived": null,
+    "solicitationId": "2033H626Q00047",
+    "parentContract": "2099CA27A00003",
+    "awardUrl": "https://www.usaspending.gov/award/CONT_AWD_2099CA27F00009_2001_2099CA27A00003_2001",
+    "recipientUrl": "https://www.usaspending.gov/recipient/d41a6b8a-9d6a-0d28-7e24-989e31731aad-C/latest"
+  },
+  {
+    "company": "DIGITAL MANAGEMENT LLC",
+    "uei": "EMACGJ3EEAT5",
+    "awardId": "75D30127F21764",
+    "awardAmount": 3696255.71,
+    "awardType": "DELIVERY ORDER",
+    "description": "APPLICATION HOSTING SERVICES EO 14398",
+    "agency": "Department of Health and Human Services",
+    "subAgency": "Centers for Disease Control and Prevention",
+    "startDate": "2026-11-11",
+    "endDate": "2027-04-28",
+    "naics": "541512",
+    "naicsDescription": "Computer Systems Design Services",
+    "psc": "DA01",
+    "pscDescription": "It And Telecom - Business Application/Application Development Support Services (Labor)",
+    "placeOfPerformanceState": "VA",
+    "dateSigned": "2026-11-10",
+    "potentialValue": 3696255.71,
+    "recipientAddress": {
+      "street": "1600 INTERNATIONAL DR STE 500",
+      "city": "Mc Lean",
+      "state": "VA",
+      "zip": "22102",
+      "country": "USA"
+    },
+    "parentCompany": null,
+    "businessCategories": [
+      "Category Business",
+      "Limited Liability Corporation",
+      "Minority Owned Business",
+      "Not Designated a Small Business",
+      "Special Designations",
+      "Indian (Subcontinent) American Owned Business",
+      "U.S.-Owned Business"
+    ],
+    "isSmallBusiness": false,
+    "executives": [],
+    "competition": "FULL AND OPEN COMPETITION",
+    "setAside": null,
+    "offersReceived": 1,
+    "solicitationId": "75D301-27-Q-79328",
+    "parentContract": "47QTCK18D0019",
+    "awardUrl": "https://www.usaspending.gov/award/CONT_AWD_75D30127F21764_7523_47QTCK18D0019_4732",
+    "recipientUrl": "https://www.usaspending.gov/recipient/5da48da9-52e2-68fc-383f-bb500b230e4e-C/latest"
+  },
+  {
+    "company": "SIERRA WIRELESS AMERICA, INC.",
+    "uei": "G3BQEM6HEW81",
+    "awardId": "70FA3027C00000001",
+    "awardAmount": 2422743.09,
+    "awardType": "DEFINITIVE CONTRACT",
+    "description": "THE PURPOSE OF THIS REQUIREMENT IS TO PROCURE ASSET TRACKING MANAGEMENT MAINTENANCE AND SERVICES FOR THE LOGISTICS SUPPLY CHAIN MANAGEMENT SYSTEM-CLOUD IN SUPPORT OF THE LOGISTICS MANAGEMENT DIRECTORATE.",
+    "agency": "Department of Homeland Security",
+    "subAgency": "Federal Emergency Management Agency",
+    "startDate": "2026-11-07",
+    "endDate": "2027-11-06",
+    "naics": "541512",
+    "naicsDescription": "Computer Systems Design Services",
+    "psc": "DA01",
+    "pscDescription": "It And Telecom - Business Application/Application Development Support Services (Labor)",
+    "placeOfPerformanceState": "DC",
+    "dateSigned": "2026-11-09",
+    "potentialValue": 12248223.59,
+    "recipientAddress": {
+      "street": "2738 LOKER AVE W",
+      "city": "Carlsbad",
+      "state": "CA",
+      "zip": "92010",
+      "country": "USA"
+    },
+    "parentCompany": "SIERRA WIRELESS, INC",
+    "businessCategories": [
+      "Category Business",
+      "Corporate Entity Not Tax Exempt",
+      "Not Designated a Small Business",
+      "Special Designations",
+      "U.S.-Owned Business"
+    ],
+    "isSmallBusiness": false,
+    "executives": [],
+    "competition": "NOT COMPETED",
+    "setAside": "NO SET ASIDE USED.",
+    "offersReceived": 1,
+    "solicitationId": "70FA3027Q00000001",
+    "parentContract": null,
+    "awardUrl": "https://www.usaspending.gov/award/CONT_AWD_70FA3027C00000001_7022_-NONE-_-NONE-",
+    "recipientUrl": "https://www.usaspending.gov/recipient/b7b38fe4-0d0b-63b5-f37c-fee4fdcb8f33-C/latest"
+  }
+]
